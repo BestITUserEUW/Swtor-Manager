@@ -1,0 +1,10 @@
+Schritt 1: Download Python : https://www.python.org/downloads/release/python-378/
+ 
+Schritt 2: Swtor.py doppelclick 
+
+Schritt 3(Opt.): Um Programm direkt bei start Automatisch auszuführen      
+         Schritt 1 : In Suchleiste ausführen eingeben und Ausführen
+         
+         Schritt 2 : shell:startup eingeben und entern    
+
+         Schritt 3 : swtor.db und Swtor.py in Autostart ordner reinziehen
